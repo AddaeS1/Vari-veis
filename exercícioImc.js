@@ -12,3 +12,6 @@ peso = readlineSync.question("Qual é o seu peso ?");
 imc = parseFloat(peso) / parseFloat(altura*altura)
 
 console.log("O seu IMC é : ", parseFloat(imc));
+
+
+// "enviando via git em 8/9/22"

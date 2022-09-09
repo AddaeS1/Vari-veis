@@ -6,3 +6,6 @@ let a = pi * r ** 2 ;
 
 console.log(c);
 console.log(a);
+
+
+// "enviando via git em 8/9/22"

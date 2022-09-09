@@ -14,3 +14,5 @@ t = readlineSync.question("Qual é o tempo do investimento ? ");
 
 montante = parseFloat(capital) * (1+parseFloat(i))**parseFloat(t);
 console.log(`Seu montante após o decorrer do tempo e da incisão dos juros compostos é : ${montante.toFixed(2)}`);
+
+// "enviando via git em 8/9/22"

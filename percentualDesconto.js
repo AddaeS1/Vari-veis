@@ -17,3 +17,6 @@ let desconto = descFinal - 100;
 
 
 console.log("O percentual de desconto é : ", parseFloat(desconto),"%" );
+
+
+// "enviando via git em 8/9/22"

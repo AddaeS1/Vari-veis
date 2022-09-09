@@ -6,3 +6,6 @@ let p ;
 p = po * (x **(t/7)) ;
 
 console.log(p);
+
+
+// "enviando via git em 8/9/22"

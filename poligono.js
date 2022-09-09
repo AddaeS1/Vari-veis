@@ -10,3 +10,6 @@ let valorAnguloInterno = somaAngulos / numeroPoligonos
 
 console.log(somaAngulos);
 console.log(valorAnguloInterno);
+
+
+// "enviando via git em 8/9/22"

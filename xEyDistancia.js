@@ -18,3 +18,6 @@ console.log(y3);
 
 let distancia = Math.sqrt(x3 + y3);
 console.log("A distância entre o ponto x e y é de  :", distancia);
+
+
+// "enviando via git em 8/9/22"

@@ -16,3 +16,6 @@ let velocidadeKm = velocidade * km;
 console.log("A velocidade em KM utilizada para a distância foi de :" , parseFloat(velocidadeKm));
 
 
+// "enviando via git em 8/9/22"
+
+
